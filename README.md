@@ -1,2 +1,2 @@
-# kaggle_datastets
+# Kaggle
 Repository containing files with datasets from Kaggle.
