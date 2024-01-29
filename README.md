@@ -1,2 +1,2 @@
 # Kaggle
-Repository containing files with datasets from Kaggle.
+Repository containing projects made using Kaggle.
